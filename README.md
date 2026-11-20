@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/singularity-hero-dark.svg">
     <img
-      alt="Ali Basim: Software developer focused on game development, multiplayer systems, modding and space simulation."
+      alt="Allsh: Software developer. I build game systems, multiplayer experiences and tools. Cinematic title card featuring a black hole and contribution-based accretion disk."
       src="./assets/singularity-hero-light.svg"
       width="100%"
     >
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <b>Ali Basim</b> · Software developer focused on game development, multiplayer systems and space simulation.
+  <b>Allsh</b> · Software developer. I build game systems, multiplayer experiences and tools.
 </p>
 
 ---
@@ -19,24 +19,26 @@
 > I'm a software developer interested in game development, modding, multiplayer systems and space simulation.
 >
 > **Current objective.**  
-> Building **SFS NEW WORLD** — a multiplayer modification for Spaceflight Simulator focused on networking, synchronization and shared gameplay.
+> Building **SFS NEW WORLD** — a multiplayer modification for Spaceflight Simulator focused on synchronization, networking and shared gameplay.
 >
 > Beyond the current mission, I explore software development, game systems and experimental projects.
 
 ---
 
-## 📡 Mission Telemetry
+## Telemetry
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/singularity-telemetry-dark.svg">
     <img
-      alt="Mission telemetry for SFS NEW WORLD multiplayer mod."
+      alt="Mission telemetry for SFS NEW WORLD | multiplayer mod"
       src="./assets/singularity-telemetry-light.svg"
       width="100%"
     >
   </picture>
 </p>
+
+
 
 ---
 
@@ -46,7 +48,7 @@
 
 A multiplayer modification for **Spaceflight Simulator**, focused on bringing synchronized multiplayer gameplay to the game.
 
-**Mission focus**
+**Focus areas**
 
 - Multiplayer networking
 - Player and rocket synchronization
@@ -55,39 +57,39 @@ A multiplayer modification for **Spaceflight Simulator**, focused on bringing sy
 - Game modding
 - Space simulation
 
-> **Status:** In development
+> **Mission status:** In development
 
 ---
 
-## 🛰️ Mission Archive
+## 🛰️ Projects
 
-More projects and experiments are currently in development.
+More missions are currently in development.
 
 - **SFS NEW WORLD** — Multiplayer modification for Spaceflight Simulator.
 - **Game Development** — Experimental game systems and gameplay projects.
-- **Software Experiments** — Tools, prototypes and technical projects.
+- **Software Experiments** — Tools, prototypes and technical experiments.
 
 ---
 
-## 🛠️ Technical Systems
+## 🛠️ Technologies
 
 **Languages**
 
 `C++` · `C#` · `Python` · `Java` · `PHP`
 
-**Technologies & Development**
+**Development**
 
 `Unity` · `.NET` · `Game Development` · `Networking` · `Modding`
 
 ---
 
-## 🌌 About the Developer
+## 🌌 About
 
-I enjoy building software at the intersection of **games, systems and simulation**.
+I enjoy building things that sit at the intersection of software, games and simulation.
 
-My current mission is **SFS NEW WORLD**, where I work on multiplayer architecture, networking and synchronization for Spaceflight Simulator.
+My current focus is **SFS NEW WORLD**, where I'm working on multiplayer architecture, networking and synchronization for Spaceflight Simulator.
 
-I also explore programming, game development and experimental software projects — always with a focus on learning, building and pushing ideas further.
+I also explore programming, game development and experimental software projects whenever a new idea is worth pursuing.
 
 ---
 
@@ -101,11 +103,11 @@ I also explore programming, game development and experimental software projects 
     <img src="https://img.shields.io/badge/Discord-100000?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://www.reddit.com/user/Allsh0/">
-    <img src="https://img.shields.io/badge/Reddit-100000?style=for-the-badge&logo=reddit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Reddit-100000?style=for-the-badge&logo=reddit&logoColor=white" />
   </a>
 </p>
 
----
+
 
 <p align="center">
   <picture>
