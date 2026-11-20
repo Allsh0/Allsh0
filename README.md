@@ -93,6 +93,22 @@ I also explore programming, game development and experimental software projects 
 
 ---
 
+## 📡 Communications
+
+<p align="center">
+  <a href="[YOUR_GITHUB_URL](https://github.com/Allsh0)">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/391502617198460929">
+    <img src="https://img.shields.io/badge/Discord-100000?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="YOUR_TELEGRAM_URL">
+    <img src="https://img.shields.io/badge/Telegram-100000?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
+
+
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/singularity-end-dark.svg">
