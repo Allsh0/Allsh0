@@ -38,15 +38,7 @@
   </picture>
 </p>
 
-<details>
-<summary><sub>Reading the instruments</sub></summary>
 
-- **Accretion disk:** one particle per day of the last year; brighter and closer to the hole means a busier day. Inner rings orbit faster, as they would around a real black hole.
-- **Orbit:** contributions per month, plotted as a closed trajectory; the beacon marks the busiest month.
-- **Spectral composition:** language share by bytes across public repositories.
-- **Light theme:** rendered as a photographic negative, the way astronomical survey plates were printed.
-
-</details>
 
 ---
 
