@@ -102,8 +102,8 @@ I also explore programming, game development and experimental software projects 
   <a href="https://discord.com/users/391502617198460929">
     <img src="https://img.shields.io/badge/Discord-100000?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="YOUR_TELEGRAM_URL">
-    <img src="https://img.shields.io/badge/Telegram-100000?style=for-the-badge&logo=telegram&logoColor=white" />
+  <a href="https://www.reddit.com/user/Allsh0/">
+  <img src="https://img.shields.io/badge/Reddit-100000?style=for-the-badge&logo=reddit&logoColor=white" />
   </a>
 </p>
 
