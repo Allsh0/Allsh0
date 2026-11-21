@@ -42,7 +42,7 @@
 
 ---
 
-## 🚀 Current Mission
+##  Current Mission
 
 ### SFS NEW WORLD
 
@@ -61,7 +61,7 @@ A multiplayer modification for **Spaceflight Simulator**, focused on bringing sy
 
 ---
 
-## 🛰️ Projects
+##  Projects
 
 More missions are currently in development.
 
@@ -71,7 +71,7 @@ More missions are currently in development.
 
 ---
 
-## 🛠️ Technologies
+##  Technologies
 
 **Languages**
 
@@ -83,7 +83,7 @@ More missions are currently in development.
 
 ---
 
-## 🌌 About
+##  About
 
 I enjoy building things that sit at the intersection of software, games and simulation.
 
